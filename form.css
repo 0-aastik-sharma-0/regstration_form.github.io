@@ -37,7 +37,7 @@ h2{
 }
 @media screen and (max-width: 600px) {
     .input{
-        width: 135px;
+        width: 200px;
   }
 }
 
@@ -48,7 +48,7 @@ h2{
 }
 @media (min-width: 1000px){
     .Form{
-        width: 500px;
+        width: 700px;
     }
 }
 
