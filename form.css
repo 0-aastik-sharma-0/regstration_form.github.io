@@ -43,7 +43,7 @@ h2{
 
 @media screen and (max-width: 600px) {
     .Form{
-        width: 200px;
+        width: 300px;
   }
 }
 @media (min-width: 1000px){
